@@ -1,6 +1,10 @@
+## Deep Learning Project for Implementing DETR
+## Instructor: Satwat Bashir
+## Group Member: Ammara Ihsan & Ali Ehtsham
+## OS: Kali linux
+## Python 3 
+
 # Training DETR on Custom Dataset
-Tutorial Video [link](https://www.youtube.com/watch?v=RkhXoj_Vvr4&lc=UgwHlStd7pa4KMszFQx4AaABAg&ab_channel=DeepReader)  
-Code based on [End-to-end Object Detection with Transformer](https://github.com/facebookresearch/detr)
 
 ## Step 1.
 Download wider face dataset [link](http://shuoyang1213.me/WIDERFACE/) and unzip the files in dataset folder
@@ -22,3 +26,6 @@ Run test.py
 ```
 $ python test.py --data_path ../dataset/WIDER_test/images/ --resume [path_to_checkpoint.pth]
 ```
+
+## Thank you
+## AE

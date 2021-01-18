@@ -6,6 +6,9 @@
 
 # Training DETR on Custom Dataset
 
+
+In order to run this dataset please follow the instructions below
+
 ## Step 1.
 Download wider face dataset [link](http://shuoyang1213.me/WIDERFACE/) and unzip the files in dataset folder
 
